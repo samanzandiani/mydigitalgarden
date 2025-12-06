@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: سامان زندیانی | باغ دیجیتال
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+سایت در حال بارگذاری مجدد مطالب است.
+به دلیل مشکلات فنی مدتی از دسترس خارج است.
